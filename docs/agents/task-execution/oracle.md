@@ -256,4 +256,4 @@ Oracle will:
 
 - [Librarian Agent](librarian.md) - External documentation research
 - [Explore Agent](explore.md) - Codebase search specialist
-- [Sisyphus System Overview](../overview.md) - Orchestration model
+- [Sisyphus System Overview](../../overview.md) - Orchestration model

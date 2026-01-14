@@ -1,41 +1,51 @@
-# Oh My Claude Sisyphus Documentation
+# oh-my-claude-sisyphus Documentation
 
-Multi-agent orchestration system for Claude Code.
+Complete documentation for the oh-my-claude-sisyphus multi-agent orchestration system for Claude Code.
 
-## Local Development
+## Quick Start
 
 ```bash
+# Install dependencies
 bundle install
+
+# Start local development server
 bundle exec jekyll serve
+
+# Open in browser
+open http://localhost:4000
 ```
 
-Open http://localhost:4000 in your browser.
+## What is oh-my-claude-sisyphus?
 
-## Deploy to GitHub Pages
+A multi-agent orchestration layer for Claude Code that enables:
 
-1. Push this repository to GitHub
-2. Go to Settings > Pages
-3. Set Source to "GitHub Actions"
-4. The site will be deployed automatically
+- **11 specialized agents** with distinct capabilities
+- **18 lifecycle hooks** for system integration
+- **6 composable skills** for enhanced workflows
+- **13 slash commands** for direct mode activation
+- **LSP and AST tools** for codebase intelligence
 
-## Structure
+## Documentation Sections
 
-```
-docs/
-├── index.md                 # Home page
-├── getting-started/         # Installation & configuration
-├── architecture/            # Core system architecture
-├── agents/                  # Multi-agent system
-├── hooks/                   # Lifecycle hooks
-├── tools/                   # LSP, AST, built-in tools
-├── skills/                  # Builtin skills
-├── commands/                # Slash commands
-├── features/                # Key features
-├── configuration/           # Configuration reference
-├── platform/                # Platform-specific behavior
-├── development/             # Build & CI/CD
-└── reference/               # API reference & glossary
-```
+| Section | Description |
+|---------|-------------|
+| [Getting Started](docs/getting-started/) | Installation, configuration, quick start |
+| [Agents](docs/agents/) | All 11 agents with models and purposes |
+| [Hooks](docs/hooks/) | Lifecycle hooks and system integration |
+| [Tools](docs/tools/) | LSP, AST, and built-in tools |
+| [Skills](docs/skills/) | Composable skills for workflows |
+| [Commands](docs/commands/) | Slash command reference |
+| [Features](docs/features/) | Auto-update, magic keywords, context injection |
+| [Configuration](docs/configuration/) | Project config and customization |
+| [Platform](docs/platform/) | Windows, macOS, Linux compatibility |
+
+## Build and Deploy
+
+The site uses Jekyll with the just-the-docs theme and deploys automatically to GitHub Pages via GitHub Actions.
+
+## License
+
+Documentation is available under the same terms as oh-my-claude-sisyphus.
 
 ## Disclaimer
 

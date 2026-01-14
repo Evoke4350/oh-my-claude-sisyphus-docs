@@ -332,6 +332,6 @@ Spawns a background task.
 
 ## Related Documentation
 
-- [Configuration Reference](../configuration/reference.md) - Configuration options
-- [Commands](../commands/) - Slash command equivalents
-- [Agents](../agents/) - Agent specifications
+- [Configuration Reference](configuration/reference.md) - Configuration options
+- [Commands](commands/) - Slash command equivalents
+- [Agents](agents/) - Agent specifications

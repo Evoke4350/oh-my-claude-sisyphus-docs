@@ -260,4 +260,4 @@ Document Writer will:
 
 - [Frontend Engineer Agent](frontend-engineer.md) - UI/UX implementation
 - [Librarian Agent](librarian.md) - External documentation research
-- [Sisyphus System Overview](../overview.md) - Orchestration model
+- [Sisyphus System Overview](../../overview.md) - Orchestration model

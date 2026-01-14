@@ -19,12 +19,12 @@ oh-my-claude-sisyphus is a multi-agent orchestration system for [Claude Code](ht
 
 **Key Navigation:**
 
-* Getting started: [2](../getting-started/) Installation & Configuration
-* Architecture: [3](../architecture/) System Design & Plugin Lifecycle
-* Agents: [4](../agents/) Multi-Agent Orchestration
-* Hooks: [5](../hooks/) Lifecycle Hooks
-* Skills: [6](../skills/) Composable Skills
-* Commands: [7](../commands/) Slash Commands
+* Getting started: [2](getting-started/) Installation & Configuration
+* Agents: [4](agents/) Multi-Agent Orchestration
+* Hooks: [5](hooks/) Lifecycle Hooks
+* Skills: [6](skills/) Composable Skills
+* Commands: [7](commands/) Slash Commands
+* Tools: [8](tools/) LSP, AST, and Built-in Tools
 
 ## What is oh-my-claude-sisyphus?
 

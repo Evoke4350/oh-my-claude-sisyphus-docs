@@ -182,4 +182,4 @@ Use librarian to research best practices for TypeScript error handling
 
 - [Explore Agent](explore.md) - Internal codebase search
 - [Oracle Agent](oracle.md) - Architecture and debugging
-- [Sisyphus System Overview](../overview.md) - Orchestration model
+- [Sisyphus System Overview](../../overview.md) - Orchestration model

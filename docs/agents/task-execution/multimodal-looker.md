@@ -138,4 +138,4 @@ Multimodal Looker will:
 
 - [Explore Agent](explore.md) - Codebase search
 - [Oracle Agent](oracle.md) - Debugging and architecture
-- [Sisyphus System Overview](../overview.md) - Orchestration model
+- [Sisyphus System Overview](../../overview.md) - Orchestration model

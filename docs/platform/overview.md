@@ -438,6 +438,6 @@ sudo pacman -S base-devel
 
 ## Related Documentation
 
-- [Installation](../getting-started/installation.md) - Detailed install guide
-- [Configuration Reference](../configuration/reference.md) - Configuration options
+- [Installation](getting-started/installation.md) - Detailed install guide
+- [Configuration Reference](configuration/reference.md) - Configuration options
 - [Hooks](../hooks/) - Hook system documentation

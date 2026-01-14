@@ -16,7 +16,7 @@ A specialized AI assistant with focused expertise and tools. Agents are spawned 
 
 **Examples:** oracle, librarian, explore, frontend-engineer
 
-**See:** [Agents](../agents/)
+**See:** [Agents](agents/)
 
 ---
 
@@ -37,7 +37,7 @@ Project-specific agent definitions file. Defines or overrides agent behavior for
 ### Background Execution
 Asynchronous agent spawning where tasks run independently and notify upon completion.
 
-**See:** [Background Execution](../features/background-execution.md)
+**See:** [Background Execution](features/background-execution.md)
 
 ---
 
@@ -67,14 +67,14 @@ Project context file that provides instructions specific to a codebase.
 
 **Location:** `.claude/CLAUDE.md` or `~/.claude/CLAUDE.md`
 
-**See:** [Project Configuration](../configuration/project-config.md)
+**See:** [Project Configuration](configuration/project-config.md)
 
 ---
 
 ### Context Injection
 Automatic loading of project-specific instructions and rules based on file access patterns.
 
-**See:** [Context Injection](../features/context-injection.md)
+**See:** [Context Injection](features/context-injection.md)
 
 ---
 
@@ -115,7 +115,7 @@ A script that executes at specific points during a Claude Code session.
 ### Keyword Detection
 Automatic detection of trigger words (ultrawork, search, analyze) that activate enhanced modes.
 
-**See:** [Magic Keywords](../features/magic-keywords.md)
+**See:** [Magic Keywords](features/magic-keywords.md)
 
 ---
 
@@ -176,7 +176,7 @@ Self-referential development loop that continues until all tasks are verified co
 
 **Named for:** Ralph Waldo Emerson's quote on persistence
 
-**See:** [ralph-loop command](../commands/reference.md#ralph-loop-task)
+**See:** [ralph-loop command](commands/reference.md#ralph-loop-task)
 
 ---
 
@@ -220,7 +220,7 @@ A command starting with `/` that activates specific behaviors or skills.
 
 **Examples:** `/sisyphus`, `/ultrawork`, `/plan`
 
-**See:** [Commands](../commands/)
+**See:** [Commands](commands/)
 
 ---
 
@@ -260,7 +260,7 @@ Maximum performance mode with aggressive parallel agent execution.
 
 **Magic Keywords:** `ultrawork`, `ulw`, `uw`
 
-**See:** [Magic Keywords](../features/magic-keywords.md#ultrawork-mode)
+**See:** [Magic Keywords](features/magic-keywords.md#ultrawork-mode)
 
 ---
 
@@ -318,6 +318,6 @@ The smallest Claude model. Best for simple lookups and formatting.
 
 ## Related Documentation
 
-- [Commands Reference](../commands/reference.md) - All slash commands
-- [Agents](../agents/) - Agent specifications
-- [Configuration](../configuration/) - Configuration options
+- [Commands Reference](commands/reference.md) - All slash commands
+- [Agents](agents/) - Agent specifications
+- [Configuration](configuration/) - Configuration options
