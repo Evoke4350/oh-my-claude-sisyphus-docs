@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Environment & Notification Hooks
-parent: Hooks
+parent: Hook System Overview
 nav_order: 5
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Context Injection
-parent: Features
+parent: Features Overview
 nav_order: 3
 ---
 

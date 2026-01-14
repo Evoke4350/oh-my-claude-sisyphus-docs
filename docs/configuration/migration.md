@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Migration Guide
-parent: Configuration
+parent: Configuration Reference
 nav_order: 4
 ---
 

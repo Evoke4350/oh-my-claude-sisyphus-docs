@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Built-in Tools
-parent: Tools
+parent: Tools Overview
 nav_order: 4
 ---
 

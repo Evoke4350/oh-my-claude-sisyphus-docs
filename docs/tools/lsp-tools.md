@@ -1,7 +1,7 @@
 ---
 layout: default
 title: LSP Tools
-parent: Tools
+parent: Tools Overview
 nav_order: 2
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Command Reference
-parent: Commands
+parent: Commands Overview
 nav_order: 2
 ---
 

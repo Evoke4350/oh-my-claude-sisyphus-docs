@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Agent Customization
-parent: Configuration
+parent: Configuration Reference
 nav_order: 2
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Commands Overview
-parent: Commands
+parent: Commands Overview
 nav_order: 1
 ---
 

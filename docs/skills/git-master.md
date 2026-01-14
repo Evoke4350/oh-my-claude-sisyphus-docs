@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Git Master Skill
-parent: Skills
+parent: Skills Overview
 nav_order: 6
 ---
 

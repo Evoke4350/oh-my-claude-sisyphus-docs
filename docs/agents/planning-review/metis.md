@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Metis Agent
-parent: Agents
+parent: Agent System
 grand_parent: Agent System
 nav_order: 3
 ---

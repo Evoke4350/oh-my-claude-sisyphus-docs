@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Auto-Update
-parent: Features
+parent: Features Overview
 nav_order: 2
 ---
 

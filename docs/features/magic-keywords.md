@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Magic Keywords
-parent: Features
+parent: Features Overview
 nav_order: 1
 ---
 

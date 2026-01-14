@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ralph Loop Skill
-parent: Skills
+parent: Skills Overview
 nav_order: 4
 ---
 

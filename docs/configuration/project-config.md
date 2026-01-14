@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Project Configuration
-parent: Configuration
+parent: Configuration Reference
 nav_order: 3
 ---
 

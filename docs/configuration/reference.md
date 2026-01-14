@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Configuration Reference
-parent: Configuration
+parent: Configuration Reference
 nav_order: 1
 ---
 

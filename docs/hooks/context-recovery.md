@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Context & Recovery Hooks
-parent: Hooks
+parent: Hook System Overview
 nav_order: 3
 ---
 

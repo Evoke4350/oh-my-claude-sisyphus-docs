@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sisyphus Skill
-parent: Skills
+parent: Skills Overview
 nav_order: 1
 ---
 
