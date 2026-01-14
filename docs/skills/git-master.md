@@ -233,6 +233,6 @@ Git Master activates automatically when:
 
 ## See Also
 
-- [Sisyphus Skill]((sisyphus/)) - Multi-agent orchestration
-- [Ultrawork Skill]((ultrawork/)) - Maximum performance mode
+- [Sisyphus Skill](sisyphus/) - Multi-agent orchestration
+- [Ultrawork Skill](ultrawork/) - Maximum performance mode
 - [Skills Overview](../overview/) - All available skills
