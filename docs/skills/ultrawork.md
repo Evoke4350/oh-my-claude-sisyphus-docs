@@ -198,6 +198,6 @@ Ultrawork stacks with other skills:
 
 ## See Also
 
-- [Sisyphus Skill](sisyphus.md) - Multi-agent orchestration
-- [Git Master Skill](git-master.md) - Atomic commits
-- [Skills Overview](overview.md) - All available skills
+- [Sisyphus Skill]((sisyphus/)) - Multi-agent orchestration
+- [Git Master Skill]((git-master/)) - Atomic commits
+- [Skills Overview](../overview/) - All available skills

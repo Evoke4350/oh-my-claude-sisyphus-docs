@@ -174,6 +174,6 @@ Ralph Loop stacks with other skills as the guarantee layer:
 
 ## See Also
 
-- [Sisyphus Skill](sisyphus.md) - Multi-agent orchestration
-- [Ultrawork Skill](ultrawork.md) - Maximum performance mode
-- [Skills Overview](overview.md) - All available skills
+- [Sisyphus Skill]((sisyphus/)) - Multi-agent orchestration
+- [Ultrawork Skill]((ultrawork/)) - Maximum performance mode
+- [Skills Overview](../overview/) - All available skills

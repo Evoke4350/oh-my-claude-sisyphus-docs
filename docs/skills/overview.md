@@ -165,8 +165,8 @@ Include these words in your prompt:
 
 ## See Also
 
-- [Sisyphus Skill](sisyphus.md) - Multi-agent orchestration
-- [Ultrawork Skill](ultrawork.md) - Maximum performance mode
-- [Git Master Skill](git-master.md) - Atomic commits expert
-- [Frontend UI/UX Skill](frontend-ui-ux.md) - Designer-developer
-- [Ralph Loop Skill](ralph-loop.md) - Completion guarantee
+- [Sisyphus Skill](sisyphus/) - Multi-agent orchestration
+- [Ultrawork Skill](ultrawork/) - Maximum performance mode
+- [Git Master Skill](git-master/) - Atomic commits expert
+- [Frontend UI/UX Skill](frontend-ui-ux/) - Designer-developer
+- [Ralph Loop Skill](ralph-loop/) - Completion guarantee
