@@ -288,6 +288,6 @@ To add a new provider: modify auth.service.ts for the auth logic and auth.config
 
 ## See Also
 
-- [Librarian Agent](librarian.md) - External documentation research
-- [Oracle Agent](oracle.md) - Architecture and debugging
-- [Sisyphus System Overview](../overview.md) - Orchestration model
+- [Librarian Agent](../../task-execution/librarian/) - External documentation research
+- [Oracle Agent](../../task-execution/oracle/) - Architecture and debugging
+- [Sisyphus System Overview](../../overview/) - Orchestration model

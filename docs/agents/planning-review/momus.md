@@ -224,6 +224,6 @@ For 2-3 representative tasks:
 
 ## See Also
 
-- [Prometheus Agent](prometheus.md) - Plan creation
+- [Prometheus Agent](../../planning-review/prometheus/) - Plan creation
 - [Metis Agent](metis.md) - Pre-planning analysis
-- [Sisyphus System Overview](../overview.md) - Orchestration model
+- [Sisyphus System Overview](../../overview/) - Orchestration model

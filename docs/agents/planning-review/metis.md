@@ -230,6 +230,6 @@ Metis: ## Metis Analysis: OAuth Authentication
 
 ## See Also
 
-- [Prometheus Agent](prometheus.md) - Plan creation
+- [Prometheus Agent](../../planning-review/prometheus/) - Plan creation
 - [Momus Agent](momus.md) - Plan review
-- [Sisyphus System Overview](../overview.md) - Orchestration model
+- [Sisyphus System Overview](../../overview/) - Orchestration model

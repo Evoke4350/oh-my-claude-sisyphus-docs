@@ -208,6 +208,6 @@ Record architectural choices:
 
 ## See Also
 
-- [Prometheus Agent](../planning-review/prometheus.md) - Plan creation
-- [Oracle Agent](../task-execution/oracle.md) - Architecture consultation
-- [Sisyphus System Overview](../overview.md) - Orchestration model
+- [Prometheus Agent](../../planning-review/prometheus.md) - Plan creation
+- [Oracle Agent](../../task-execution/oracle.md) - Architecture consultation
+- [Sisyphus System Overview](../../overview/) - Orchestration model

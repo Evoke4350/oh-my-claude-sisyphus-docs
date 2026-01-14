@@ -335,4 +335,4 @@ Expert in:
 
 - [Configuration Reference](reference.md) - Configuration schema
 - [Project Configuration](project-config.md) - CLAUDE.md setup
-- [Agents](../agents/) - Built-in agent documentation
+- [Agents](/agents/) - Built-in agent documentation

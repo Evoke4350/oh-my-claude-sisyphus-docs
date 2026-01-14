@@ -65,13 +65,13 @@ The orchestrator automatically delegates based on task characteristics:
 
 | Trigger | Agent |
 |---------|-------|
-| Architecture decisions, debugging | [Oracle](../task-execution/oracle.md) |
-| External docs, OSS examples | [Librarian](../task-execution/librarian.md) |
-| Code location questions | [Explore](../task-execution/explore.md) |
-| UI/UX, styling, components | [Frontend Engineer](../task-execution/frontend-engineer.md) |
-| Documentation tasks | [Document Writer](../task-execution/document-writer.md) |
-| Image/screenshot analysis | [Multimodal Looker](../task-execution/multimodal-looker.md) |
-| Strategic planning needed | [Prometheus](../planning-review/prometheus.md) |
+| Architecture decisions, debugging | [Oracle](../../task-execution/oracle.md) |
+| External docs, OSS examples | [Librarian](../../task-execution/librarian.md) |
+| Code location questions | [Explore](../../task-execution/explore.md) |
+| UI/UX, styling, components | [Frontend Engineer](../../task-execution/frontend-engineer.md) |
+| Documentation tasks | [Document Writer](../../task-execution/document-writer.md) |
+| Image/screenshot analysis | [Multimodal Looker](../../task-execution/multimodal-looker.md) |
+| Strategic planning needed | [Prometheus](../../planning-review/prometheus.md) |
 
 ### Manual Invocation
 
@@ -228,6 +228,6 @@ Use `/ultrawork` when you want **maximum intensity**:
 
 ## See Also
 
-- [Task Execution Agents](../task-execution/) - Oracle, Librarian, Explore, Frontend Engineer, Document Writer, Multimodal Looker
-- [Planning & Review Agents](../planning-review/) - Prometheus, Momus, Metis
+- [Task Execution Agents](../../task-execution/) - Oracle, Librarian, Explore, Frontend Engineer, Document Writer, Multimodal Looker
+- [Planning & Review Agents](../../planning-review/) - Prometheus, Momus, Metis
 - [Ultrawork Skill](../../skills/ultrawork.md) - Maximum performance mode

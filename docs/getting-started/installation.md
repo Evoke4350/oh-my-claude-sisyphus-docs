@@ -402,4 +402,4 @@ After installation:
 1. **Configuration**: Customize agent behavior and system prompts. See [Configuration](./configuration.md).
 2. **Quick Start**: Learn basic usage patterns. See [Quick Start](./quick-start.md).
 3. **Architecture**: Understand system design. See [Architecture](../architecture/).
-4. **Agents**: Learn about specialized agents. See [Agents](../agents/).
+4. **Agents**: Learn about specialized agents. See [Agents](/agents/).

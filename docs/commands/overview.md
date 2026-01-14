@@ -105,5 +105,5 @@ find all files that import the utils module
 ## See Also
 
 - [Command Reference](reference.md) - Detailed command documentation
-- [Magic Keywords](../features/magic-keywords.md) - Keyword-based activation
+- [Magic Keywords](/features/magic-keywords.md) - Keyword-based activation
 - [Skills](../skills/) - Built-in skill documentation

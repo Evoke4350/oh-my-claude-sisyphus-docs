@@ -20,7 +20,7 @@ External documentation and reference researcher for finding official docs, OSS i
 | **Mode** | subagent |
 | **Primary Function** | External documentation, GitHub repos, OSS research, package discovery |
 
-Librarian searches EXTERNAL resources-official documentation, open source implementations, package repositories, Stack Overflow, and technical blogs. For internal codebase searches, use the [Explore Agent](explore.md) instead.
+Librarian searches EXTERNAL resources-official documentation, open source implementations, package repositories, Stack Overflow, and technical blogs. For internal codebase searches, use the [Explore Agent](../../task-execution/explore/) instead.
 
 ```mermaid
 flowchart TD
@@ -58,7 +58,7 @@ flowchart TD
 
 ### What Librarian DOES NOT Search
 
-Use the [Explore Agent](explore.md) for:
+Use the [Explore Agent](../../task-execution/explore/) for:
 
 - Current project's source code
 - Local file contents
@@ -179,6 +179,6 @@ Use librarian to research best practices for TypeScript error handling
 
 ## See Also
 
-- [Explore Agent](explore.md) - Internal codebase search
-- [Oracle Agent](oracle.md) - Architecture and debugging
-- [Sisyphus System Overview](../overview.md) - Orchestration model
+- [Explore Agent](../../task-execution/explore/) - Internal codebase search
+- [Oracle Agent](../../task-execution/oracle/) - Architecture and debugging
+- [Sisyphus System Overview](../../overview/) - Orchestration model

@@ -481,7 +481,7 @@ Use oracle to design auth, then frontend-engineer to build it
 After mastering the basics:
 
 1. **Architecture**: Understand system design. See [Architecture](../architecture/).
-2. **Agents**: Learn about specialized agents. See [Agents](../agents/).
+2. **Agents**: Learn about specialized agents. See [Agents](/agents/).
 3. **Hooks**: Learn about lifecycle hooks. See [Hooks](../hooks/).
 4. **Skills**: Learn about composable skills. See [Skills](../skills/).
 5. **Commands**: Learn about all slash commands. See [Commands](../commands/).
