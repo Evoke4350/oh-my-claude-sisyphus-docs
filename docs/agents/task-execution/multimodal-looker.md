@@ -114,7 +114,7 @@ flowchart TD
 | **Focus on relevant** | Extract only what matters for the task |
 | **Preserve context** | Note relationships between elements |
 | **Be specific** | Use precise locations (left, top-right, etc.) |
-| **Summarize** | Don't transcribe everything—capture meaning |
+| **Summarize** | Don't transcribe everything-capture meaning |
 | **Cross-reference** | Link to code/docs when applicable |
 
 ---

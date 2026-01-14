@@ -10,7 +10,7 @@ nav_order: 1
 
 Strategic planning consultant with interview workflow for comprehensive work plan creation.
 
-> **Named after the Titan who brought fire to humanity—you bring foresight and structure to complex work.**
+> **Named after the Titan who brought fire to humanity-you bring foresight and structure to complex work.**
 
 ---
 

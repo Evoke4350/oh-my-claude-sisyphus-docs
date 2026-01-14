@@ -23,7 +23,7 @@ Strategic architecture and debugging advisor with deep reasoning capabilities.
 | **Mode** | subagent (READ-ONLY consultant) |
 | **Primary Function** | Architecture decisions, debugging consultation, root cause analysis |
 
-Oracle is a consulting architect that analyzes, advises, and recommends—but never implements. As a read-only advisor, Oracle provides strategic guidance while the orchestrator handles implementation.
+Oracle is a consulting architect that analyzes, advises, and recommends-but never implements. As a read-only advisor, Oracle provides strategic guidance while the orchestrator handles implementation.
 
 ```mermaid
 flowchart LR

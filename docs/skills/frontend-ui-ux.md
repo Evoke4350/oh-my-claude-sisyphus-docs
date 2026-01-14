@@ -19,7 +19,7 @@ Designer-turned-developer who crafts stunning UI/UX even without design mockups.
 | **Type** | Enhancement skill (stackable) |
 | **Purpose** | UI/UX design, visual aesthetics, component implementation |
 
-The Frontend UI/UX skill brings a designer's eye to development. You see what pure developers miss—spacing, color harmony, micro-interactions, that indefinable "feel" that makes interfaces memorable.
+The Frontend UI/UX skill brings a designer's eye to development. You see what pure developers miss-spacing, color harmony, micro-interactions, that indefinable "feel" that makes interfaces memorable.
 
 ```mermaid
 flowchart TD

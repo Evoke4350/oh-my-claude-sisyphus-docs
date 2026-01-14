@@ -23,7 +23,7 @@ Technical documentation writer who transforms complex codebases into crystal-cle
 | **Mode** | subagent |
 | **Primary Function** | Technical documentation, README files, API docs, code comments |
 
-Document Writer creates documentation that is accurate, comprehensive, and genuinely useful. With deep engineering background and reader empathy, the agent produces documentation that developers actually want to read—even without detailed specifications.
+Document Writer creates documentation that is accurate, comprehensive, and genuinely useful. With deep engineering background and reader empathy, the agent produces documentation that developers actually want to read-even without detailed specifications.
 
 ```mermaid
 flowchart TD
@@ -51,7 +51,7 @@ Create documentation that is:
 2. **Comprehensive** - All features covered, edge cases included
 3. **Genuinely useful** - Helps developers succeed
 
-Execute documentation tasks with precision—obsessing over clarity, structure, and completeness while ensuring technical correctness.
+Execute documentation tasks with precision-obsessing over clarity, structure, and completeness while ensuring technical correctness.
 
 ---
 

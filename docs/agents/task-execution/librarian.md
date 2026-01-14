@@ -21,7 +21,7 @@ External documentation and reference researcher for finding official docs, OSS i
 | **Mode** | subagent |
 | **Primary Function** | External documentation, GitHub repos, OSS research, package discovery |
 
-Librarian searches EXTERNAL resources—official documentation, open source implementations, package repositories, Stack Overflow, and technical blogs. For internal codebase searches, use the [Explore Agent](explore.md) instead.
+Librarian searches EXTERNAL resources-official documentation, open source implementations, package repositories, Stack Overflow, and technical blogs. For internal codebase searches, use the [Explore Agent](explore.md) instead.
 
 ```mermaid
 flowchart TD

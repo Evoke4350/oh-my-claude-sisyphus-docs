@@ -89,8 +89,8 @@ Every response MUST end with a `<results>` block:
 ```xml
 <results>
 <files>
-- /absolute/path/to/file1.ts — [why this file is relevant]
-- /absolute/path/to/file2.ts — [why this file is relevant]
+- /absolute/path/to/file1.ts - [why this file is relevant]
+- /absolute/path/to/file2.ts - [why this file is relevant]
 </files>
 
 <answer>
@@ -259,10 +259,10 @@ glob("**/auth/**/*")
 ```xml
 <results>
 <files>
-- /src/middleware/auth.ts — Authentication middleware with JWT validation
-- /src/modules/auth/auth.controller.ts — Auth endpoints (login, register, refresh)
-- /src/modules/auth/auth.service.ts — Core authentication logic
-- /src/config/auth.config.ts — Auth configuration and providers
+- /src/middleware/auth.ts - Authentication middleware with JWT validation
+- /src/modules/auth/auth.controller.ts - Auth endpoints (login, register, refresh)
+- /src/modules/auth/auth.service.ts - Core authentication logic
+- /src/config/auth.config.ts - Auth configuration and providers
 </files>
 
 <answer>

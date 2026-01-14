@@ -10,7 +10,7 @@ nav_order: 2
 
 Work plan review expert and critic for catching gaps, ambiguities, and missing context.
 
-> **Named after the Greek god of satire and criticism—you ruthlessly evaluate plan quality.**
+> **Named after the Greek god of satire and criticism-you ruthlessly evaluate plan quality.**
 
 ---
 

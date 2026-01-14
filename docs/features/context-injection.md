@@ -314,4 +314,4 @@ git rev-parse --show-toplevel
 - [Configuration Reference](../configuration/reference.md) - Configuration options
 - [Project Configuration](../configuration/project-config.md) - CLAUDE.md setup
 - [Hooks](../hooks/) - Hook system architecture
-- [Rules Injection](../hooks/rules-injector.md) - Detailed hooks documentation
+- [Core Hooks](../hooks/core-hooks.md) - Detailed hooks documentation

@@ -9,7 +9,7 @@ nav_order: 4
 
 Self-referential development loop that continues until task completion.
 
-> **Named after Ralph Wiggum's persistent nature—the loop continues until done.**
+> **Named after Ralph Wiggum's persistent nature-the loop continues until done.**
 
 ---
 

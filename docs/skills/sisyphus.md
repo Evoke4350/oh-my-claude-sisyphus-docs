@@ -132,7 +132,7 @@ Sets Sisyphus as the permanent default mode.
 
 ### Magic Keywords
 
-No magic keywords needed—Sisyphus is now the default behavior.
+No magic keywords needed-Sisyphus is now the default behavior.
 
 ---
 
