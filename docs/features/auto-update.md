@@ -11,7 +11,7 @@ Oh-my-claude-sisyphus includes a silent background auto-update system that keeps
 
 ## Overview
 
-The auto-update system automatically checks for updates at regular intervals and applies them seamlessly. Updates are rate-limited and concurrent-safe to prevent disruption.
+The auto-update system checks for updates at regular intervals and installs them automatically. Updates are rate-limited and concurrent-safe to prevent disruption.
 
 ## Features
 

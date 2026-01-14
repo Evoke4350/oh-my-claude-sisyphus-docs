@@ -48,7 +48,7 @@ flowchart TD
 | **Complete what's asked** | Execute the exact task. No scope creep. Work until it works. |
 | **Leave it better** | Ensure project is in working state after changes. |
 | **Study before acting** | Examine existing patterns, conventions, and git log first. |
-| **Blend seamlessly** | Match existing code patterns-your code should look like the team wrote it. |
+| **Match existing patterns** | Fit your code into the existing style-your work should look like the team wrote it. |
 | **Be transparent** | Announce each step. Explain reasoning. Report successes and failures. |
 
 ---

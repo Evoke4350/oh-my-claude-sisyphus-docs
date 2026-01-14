@@ -12,7 +12,7 @@ nav_order: 3
 > * [CLAUDE.md](https://github.com/Yeachan-Heo/oh-my-claude-sisyphus/blob/main/CLAUDE.md)
 > * [commands/](https://github.com/Yeachan-Heo/oh-my-claude-sisyphus/tree/main/commands)
 
-This page provides basic usage examples for oh-my-claude-sisyphus. Learn how to use slash commands, invoke agents, and leverage magic keywords for enhanced development workflows.
+This page provides basic usage examples for oh-my-claude-sisyphus. Learn how to use slash commands, invoke agents, and use magic keywords for faster development workflows.
 
 For installation instructions, see [Installation](./installation.md). For configuration details, see [Configuration](./configuration.md).
 
