@@ -2,7 +2,6 @@
 layout: default
 title: Document Writer Agent
 parent: Agent System
-grand_parent: Agent System
 nav_order: 5
 ---
 

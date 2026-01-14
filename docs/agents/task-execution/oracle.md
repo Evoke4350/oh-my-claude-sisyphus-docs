@@ -2,7 +2,6 @@
 layout: default
 title: Oracle Agent
 parent: Agent System
-grand_parent: Agent System
 nav_order: 1
 ---
 
