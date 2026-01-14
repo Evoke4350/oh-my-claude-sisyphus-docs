@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Orchestrator Skill
-parent: Skills Overview
+parent: Skills System
 nav_order: 2
 ---
 

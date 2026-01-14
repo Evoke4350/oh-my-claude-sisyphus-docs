@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Tool System Overview
-parent: Tools Overview
 nav_order: 1
 ---
 

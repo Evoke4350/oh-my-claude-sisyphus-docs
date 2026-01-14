@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Hook System Overview
-parent: Hook System Overview
 nav_order: 1
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Frontend UI/UX Skill
-parent: Skills Overview
+parent: Skills System
 nav_order: 5
 ---
 

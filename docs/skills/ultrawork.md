@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ultrawork Skill
-parent: Skills Overview
+parent: Skills System
 nav_order: 3
 ---
 
