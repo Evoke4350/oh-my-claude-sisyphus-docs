@@ -39,7 +39,7 @@ Activates the Sisyphus multi-agent orchestration mode for complex task execution
 - sisyphus (primary execution)
 - May trigger: git-master, frontend-ui-ux based on task type
 
-**See Also:** [Agents Overview](agents/overview.md)
+**See Also:** [Agents Overview](../agents/overview.md)
 
 ---
 

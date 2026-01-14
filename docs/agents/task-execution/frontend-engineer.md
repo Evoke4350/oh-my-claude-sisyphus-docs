@@ -248,4 +248,4 @@ Frontend Engineer will:
 
 - [Frontend UI/UX Skill](../../skills/frontend-ui-ux.md) - Skill variant
 - [Document Writer Agent](document-writer.md) - Documentation
-- [Sisyphus System Overview](../../overview.md) - Orchestration model
+- [Sisyphus System Overview](../overview.md) - Orchestration model

@@ -163,5 +163,5 @@ Sisyphus combines with enhancement skills:
 ## See Also
 
 - [Ultrawork Skill](ultrawork.md) - Maximum performance mode
-- [Orchestrator](../../agents/orchestration/orchestrator-sisyphus.md) - Coordination details
+- [Orchestrator](../agents/orchestration/orchestrator-sisyphus.md) - Coordination details
 - [Skills Overview](overview.md) - All available skills

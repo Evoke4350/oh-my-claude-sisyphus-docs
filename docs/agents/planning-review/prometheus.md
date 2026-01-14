@@ -198,4 +198,4 @@ Prometheus: [Generating plan to .sisyphus/plans/oauth-auth.md]
 
 - [Momus Agent](momus.md) - Plan review and critique
 - [Metis Agent](metis.md) - Pre-planning analysis
-- [Sisyphus System Overview](../../overview.md) - Orchestration model
+- [Sisyphus System Overview](../overview.md) - Orchestration model

@@ -211,4 +211,4 @@ Record architectural choices:
 
 - [Prometheus Agent](../planning-review/prometheus.md) - Plan creation
 - [Oracle Agent](../task-execution/oracle.md) - Architecture consultation
-- [Sisyphus System Overview](../../overview.md) - Orchestration model
+- [Sisyphus System Overview](../overview.md) - Orchestration model

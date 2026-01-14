@@ -233,4 +233,4 @@ Metis: ## Metis Analysis: OAuth Authentication
 
 - [Prometheus Agent](prometheus.md) - Plan creation
 - [Momus Agent](momus.md) - Plan review
-- [Sisyphus System Overview](../../overview.md) - Orchestration model
+- [Sisyphus System Overview](../overview.md) - Orchestration model
