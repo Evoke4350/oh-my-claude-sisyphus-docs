@@ -202,4 +202,4 @@ Edit agent files to customize behavior:
 - [Task Execution Agents](task-execution/) - Oracle, Librarian, Explore, Frontend Engineer, Document Writer, Multimodal Looker
 - [Planning & Review Agents](planning-review/) - Prometheus, Momus, Metis
 - [Orchestration Agents](orchestration/) - Sisyphus Junior
-- [Skills System](../skills/) - Composable skill enhancements
+- [Skills System](/skills/) - Composable skill enhancements

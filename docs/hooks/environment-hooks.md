@@ -361,6 +361,6 @@ sequenceDiagram
 
 ## Further Reading
 
-- [Core Hooks](core-hooks.md) - Orchestration and behavior
-- [Context Recovery](context-recovery.md) - Context window management
-- [Quality Hooks](quality-hooks.md) - Validation and code quality
+- [Core Hooks](core-hooks/) - Orchestration and behavior
+- [Context Recovery](context-recovery/) - Context window management
+- [Quality Hooks](quality-hooks/) - Validation and code quality

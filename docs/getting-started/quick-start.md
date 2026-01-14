@@ -14,7 +14,7 @@ nav_order: 3
 
 This page provides basic usage examples for oh-my-claude-sisyphus. Learn how to use slash commands, invoke agents, and use magic keywords for faster development workflows.
 
-For installation instructions, see [Installation](./installation.md). For configuration details, see [Configuration](./configuration.md).
+For installation instructions, see [Installation](installation/). For configuration details, see [Configuration](configuration/).
 
 ## Starting Claude Code
 

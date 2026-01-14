@@ -234,7 +234,7 @@ Debug logs are written to `/tmp/`:
 
 ## Further Reading
 
-- [Core Hooks](core-hooks.md) - Orchestration and behavior enforcement
+- [Core Hooks](core-hooks/) - Orchestration and behavior enforcement
 - [Context Recovery](context-recovery.md) - Window management and recovery
 - [Quality Hooks](quality-hooks.md) - Validation and code quality
 - [Environment Hooks](environment-hooks.md) - Environment adaptation

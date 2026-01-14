@@ -280,6 +280,6 @@ rm -rf ~/.claude/.sisyphus/background-tasks/
 
 ## Related Documentation
 
-- [Magic Keywords](magic-keywords.md) - Ultrawork activation
+- [Magic Keywords](magic-keywords/) - Ultrawork activation
 - [Commands](commands/reference.md) - Slash commands using background
 - [Hooks](hooks/) - Background notification hook

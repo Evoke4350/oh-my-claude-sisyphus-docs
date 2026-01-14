@@ -312,6 +312,6 @@ git rev-parse --show-toplevel
 ## Related Documentation
 
 - [Configuration Reference](configuration/reference.md) - Configuration options
-- [Project Configuration](configuration/project-config.md) - CLAUDE.md setup
+- [Project Configuration](../configuration/project-config/) - CLAUDE.md setup
 - [Hooks](hooks/) - Hook system architecture
-- [Core Hooks](hooks/core-hooks.md) - Detailed hooks documentation
+- [Core Hooks](../hooks/core-hooks/) - Detailed hooks documentation

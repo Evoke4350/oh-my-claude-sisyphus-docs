@@ -203,6 +203,6 @@ The auto-update system:
 
 ## Related Documentation
 
-- [Installation](getting-started/installation.md) - Initial setup
+- [Installation](../getting-started/installation/) - Initial setup
 - [Hooks](hooks/) - Hook system architecture
-- [Configuration](configuration/reference.md) - Configuration options
+- [Configuration](../configuration/reference/) - Configuration options

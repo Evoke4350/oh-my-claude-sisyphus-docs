@@ -14,7 +14,7 @@ nav_order: 1
 
 This page details the installation process for oh-my-claude-sisyphus, including prerequisite checks, installation methods, and verification steps.
 
-For configuration after installation, see [Configuration](./configuration.md). For basic usage examples, see [Quick Start](./quick-start.md).
+For configuration after installation, see [Configuration](configuration/). For basic usage examples, see [Quick Start](quick-start/).
 
 ## Prerequisites
 
@@ -399,7 +399,7 @@ chmod +x ~/.claude/hooks/*.sh
 
 After installation:
 
-1. **Configuration**: Customize agent behavior and system prompts. See [Configuration](./configuration.md).
-2. **Quick Start**: Learn basic usage patterns. See [Quick Start](./quick-start.md).
+1. **Configuration**: Customize agent behavior and system prompts. See [Configuration](configuration/).
+2. **Quick Start**: Learn basic usage patterns. See [Quick Start](quick-start/).
 3. **Architecture**: Understand system design. See [Architecture](../architecture/).
 4. **Agents**: Learn about specialized agents. See [Agents](/agents/).

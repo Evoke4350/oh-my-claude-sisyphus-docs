@@ -15,7 +15,7 @@ nav_order: 2
 
 Configuration files control oh-my-claude-sisyphus behavior including agent settings, hook behavior, and system prompts. This page explains the configuration structure, file locations, and customization options.
 
-For installation instructions, see [Installation](./installation.md). For basic usage, see [Quick Start](./quick-start.md).
+For installation instructions, see [Installation](installation/). For basic usage, see [Quick Start](quick-start/).
 
 ## Configuration Hierarchy
 
@@ -508,7 +508,7 @@ Project configuration overrides user configuration.
 
 After configuration:
 
-1. **Quick Start**: Learn basic usage patterns. See [Quick Start](./quick-start.md).
+1. **Quick Start**: Learn basic usage patterns. See [Quick Start](quick-start/).
 2. **Agents**: Learn about specialized agents. See [Agents](/agents/).
 3. **Hooks**: Learn about lifecycle hooks. See [Hooks](../hooks/).
 4. **Skills**: Learn about composable skills. See [Skills](../skills/).

@@ -65,13 +65,13 @@ The orchestrator automatically delegates based on task characteristics:
 
 | Trigger | Agent |
 |---------|-------|
-| Architecture decisions, debugging | [Oracle](../../task-execution/oracle.md) |
-| External docs, OSS examples | [Librarian](../../task-execution/librarian.md) |
-| Code location questions | [Explore](../../task-execution/explore.md) |
-| UI/UX, styling, components | [Frontend Engineer](../../task-execution/frontend-engineer.md) |
-| Documentation tasks | [Document Writer](../../task-execution/document-writer.md) |
-| Image/screenshot analysis | [Multimodal Looker](../../task-execution/multimodal-looker.md) |
-| Strategic planning needed | [Prometheus](../../planning-review/prometheus.md) |
+| Architecture decisions, debugging | [Oracle](../../task-execution/) |
+| External docs, OSS examples | [Librarian](../../task-execution/) |
+| Code location questions | [Explore](../../task-execution/) |
+| UI/UX, styling, components | [Frontend Engineer](../../task-execution/) |
+| Documentation tasks | [Document Writer](../../task-execution/) |
+| Image/screenshot analysis | [Multimodal Looker](../../task-execution/) |
+| Strategic planning needed | [Prometheus](../../planning-review/) |
 
 ### Manual Invocation
 

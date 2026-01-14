@@ -358,6 +358,6 @@ Incomplete tasks remain in your todo list. Continue working on the next pending 
 
 ## Further Reading
 
-- [Context Recovery](context-recovery.md) - Context window management
-- [Quality Hooks](quality-hooks.md) - Validation and code quality
-- [Environment Hooks](environment-hooks.md) - Environment adaptation
+- [Context Recovery](context-recovery/) - Context window management
+- [Quality Hooks](quality-hooks/) - Validation and code quality
+- [Environment Hooks](environment-hooks/) - Environment adaptation

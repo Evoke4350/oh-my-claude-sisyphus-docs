@@ -39,7 +39,7 @@ Activates the Sisyphus multi-agent orchestration mode for complex task execution
 - sisyphus (primary execution)
 - May trigger: git-master, frontend-ui-ux based on task type
 
-**See Also:** [Agents Overview](/agents/overview.md)
+**See Also:** [Agents Overview](/agents/overview/)
 
 ---
 
@@ -382,7 +382,7 @@ Check for and install oh-my-claude-sisyphus updates.
 - Concurrent-safe with lock file
 - Cross-platform support
 
-**See Also:** [Auto-Update Feature](features/auto-update.md)
+**See Also:** [Auto-Update Feature](../features/auto-update/)
 
 ---
 
@@ -407,6 +407,6 @@ Check for and install oh-my-claude-sisyphus updates.
 
 ## Related Documentation
 
-- [Magic Keywords](features/magic-keywords.md) - Keyword-based command alternatives
+- [Magic Keywords](../features/magic-keywords/) - Keyword-based command alternatives
 - [Skills](skills/) - Built-in skill documentation
 - [Hooks](hooks/) - Lifecycle hooks that support commands

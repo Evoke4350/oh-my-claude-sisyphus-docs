@@ -234,6 +234,6 @@ To disable the keyword detector, modify your configuration:
 
 ## Related Documentation
 
-- [Commands Overview](commands/overview.md) - Slash command reference
-- [Command Reference](commands/reference.md) - Detailed command docs
+- [Commands Overview](../commands/overview/) - Slash command reference
+- [Command Reference](../commands/reference/) - Detailed command docs
 - [Hooks](hooks/) - Keyword detector implementation

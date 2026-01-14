@@ -326,6 +326,6 @@ When multiple quality hooks apply, execution order is:
 
 ## Further Reading
 
-- [Core Hooks](core-hooks.md) - Orchestration and behavior
-- [Context Recovery](context-recovery.md) - Context window management
-- [Environment Hooks](environment-hooks.md) - Environment adaptation
+- [Core Hooks](core-hooks/) - Orchestration and behavior
+- [Context Recovery](context-recovery/) - Context window management
+- [Environment Hooks](environment-hooks/) - Environment adaptation

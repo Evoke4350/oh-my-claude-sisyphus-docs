@@ -400,6 +400,6 @@ flowchart TD
 
 ## Further Reading
 
-- [Core Hooks](core-hooks.md) - Orchestration and behavior
-- [Quality Hooks](quality-hooks.md) - Validation and code quality
-- [Environment Hooks](environment-hooks.md) - Environment adaptation
+- [Core Hooks](core-hooks/) - Orchestration and behavior
+- [Quality Hooks](quality-hooks/) - Validation and code quality
+- [Environment Hooks](environment-hooks/) - Environment adaptation
