@@ -224,5 +224,5 @@ Use frontend-engineer to create the login form
 ## See Also
 
 - [Frontend Engineer Agent](../../agents/task-execution/frontend-engineer/) - Agent variant
-- [Sisyphus Skill](sisyphus/) - Multi-agent orchestration
+- [Sisyphus Skill](../sisyphus/) - Multi-agent orchestration
 - [Skills Overview](../overview/) - All available skills
