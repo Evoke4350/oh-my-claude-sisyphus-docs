@@ -83,11 +83,11 @@ flowchart TD
     Detect -.->|"Found"| Validate
     Detect -.->|"Not Found"| Error["Error: Claude Code Required"]
     Validate -.-> CreateDirs
-    CreateDirs -.→ InstallAgents
-    InstallAgents -.→ InstallCommands
-    InstallCommands -.→ InstallSkills
-    InstallSkills -.→ InstallHooks
-    InstallHooks -.→ InstallCLAUDEMD
+    CreateDirs -.-> InstallAgents
+    InstallAgents -.-> InstallCommands
+    InstallCommands -.-> InstallSkills
+    InstallSkills -.-> InstallHooks
+    InstallHooks -.-> InstallCLAUDEMD
     InstallCLAUDEMD -.-> Done
 ```
 

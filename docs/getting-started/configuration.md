@@ -30,10 +30,10 @@ flowchart TD
     Hooks["hooks/hooks.json<br>Hook configuration"]
     Plugin[".claude-plugin/plugin.json<br>Plugin manifest"]
 
-    Project -.→|"Overrides"| User
-    User -.→ Agents
-    User -.→ Hooks
-    Hooks -.→ Plugin
+    Project -.->|"Overrides"| User
+    User -.-> Agents
+    User -.-> Hooks
+    Hooks -.-> Plugin
 ```
 
 **Configuration Priority:**

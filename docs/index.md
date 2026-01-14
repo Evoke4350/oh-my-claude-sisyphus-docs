@@ -202,7 +202,7 @@ flowchart TD
     Sisyphus -.->|"Media analysis"| Multimodal
     Sisyphus -.->|"Strategic planning"| Prometheus
     Sisyphus -.->|"Plan review"| Momus
-    Sisyphus -.→ Metis
+    Sisyphus -.-> Metis
     Sisyphus -.->|"Direct implementation"| SisyphusJr
 ```
 
@@ -345,9 +345,9 @@ flowchart TD
     Agents["Agent Configs<br>~/.claude/agents/*.md"]
     Hooks["Hook Config<br>hooks/hooks.json"]
 
-    Project -.→|"Overrides"| User
-    User -.→ Agents
-    User -.→ Hooks
+    Project -.->|"Overrides"| User
+    User -.-> Agents
+    User -.-> Hooks
 ```
 
 **Configuration Priority:**
@@ -382,12 +382,12 @@ flowchart TD
 
     User -.->|"activates special modes"| KeywordDetect
     KeywordDetect -.-> Sisyphus
-    Sisyphus -.→ Oracle
-    Sisyphus -.→ Librarian
-    Sisyphus -.→ Explore
-    Sisyphus -.→ Frontend
-    Sisyphus -.→ DocWriter
-    Sisyphus -.→ Multimodal
+    Sisyphus -.-> Oracle
+    Sisyphus -.-> Librarian
+    Sisyphus -.-> Explore
+    Sisyphus -.-> Frontend
+    Sisyphus -.-> DocWriter
+    Sisyphus -.-> Multimodal
 ```
 
 ### Agent Configuration Table
